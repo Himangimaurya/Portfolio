@@ -18,7 +18,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## Live Website
 
-Here is the link for live website: [Your Website URL]
+Here is the link for live website: https://himangimaurya.github.io/Portfolio/
 
 ## Setup
 
